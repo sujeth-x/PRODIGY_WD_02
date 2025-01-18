@@ -6,4 +6,13 @@
     <title>Stopwatch</title>
     <h1>STOP WATCH</h1>
 </head>
+<body>
+    <div class="stopwatch">
+        <span id="minutes">00</span>:<span id="seconds">00</span>:<span id="milliseconds">00</span>
+    </div>
+    <div class="buttons">
+        <button id="start">Start</button>
+        <button id="stop">Stop</button>
+        <button id="reset">Reset</button>
+    </div>
 </html>
